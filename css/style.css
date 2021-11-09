@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box; }
+
+body {
+  font-size: 16px; }
+
+.wrapper {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 0 10px; }
+  .wrapper .info {
+    text-align: center; }
+
+table {
+  margin: 20px auto 25px; }
+  table td {
+    border: 1px solid #000;
+    padding: 5px 10px; }
+  table thead {
+    background: #eee; }
+
+@media (max-width: 999px) {
+  .wrapper {
+    max-width: 100%; }
+
+  .table-wrapp {
+    overflow-x: scroll; } }
+
+/*# sourceMappingURL=style.css.map */

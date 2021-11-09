@@ -1,0 +1,18 @@
+{
+  "name": "clients",
+  "version": "1.0.0",
+  "description": "banks clients",
+  "main": "client.js",
+  "scripts": {
+    "test": "console.log(\"gulp\")"
+  },
+  "author": "An",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-load-plugins": "^2.0.7",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {}
+}
